@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @EuzebioSVitor and I'm 19 years old;
-- 👀 I’m interested in: Specializing in the programming area and building a great professional career;
-- 🌱 I’m currently studying: Systems Analysis and Development and focusing my studies on HTML, CSS, JavaScript and SQL;
-- 🎼 Fun fact: I like running,  I go to the gym, I'm a futsal goalkeeper and I'm bronze in Valorant;
+
